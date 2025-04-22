@@ -1,0 +1,60 @@
+Abortion
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} abortion when it comes to pro-choice policies, such as supporting a woman’s right to choose, advocating for abortion access, or opposing restrictions on abortion."
+
+Voting Rights
+["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} expanding voting rights, including supporting policies like automatic voter registration, increased access to polling stations, or fighting voter suppression."
+
+Taxes
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "The tweet {} increasing taxes on the wealthy or corporations, including advocating for higher tax rates, closing tax loopholes, or promoting progressive taxation."
+
+Healthcare
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "The tweet {} expanding access to healthcare or universal healthcare, such as supporting universal health insurance, affordable healthcare access, or opposing policies that limit healthcare coverage."
+
+Energy Policy
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"]  - "This tweet {}  transitioning to renewable energy or green energy policies, including supporting measures to reduce reliance on fossil fuels, increasing investment in clean energy, or opposing environmental deregulation."
+
+Foreign Policy
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"]  - "This tweet {} diplomatic engagement and peaceful conflict resolution, such as advocating for international cooperation, negotiation, or opposing military interventions and aggressive foreign policies."
+
+Criminal Justice
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} criminal justice reform, including reducing incarceration, advocating for rehabilitation programs, decriminalizing certain offenses, or opposing harsh penalties and mass incarceration."
+
+Inflation
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} actions to control inflation, including government intervention, tightening monetary policy, reducing government spending, or opposing inflationary measures and supporting tax cuts or monetary easing."
+
+Immigration
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} more lenient immigration policies, including supporting refugee admissions, pathways to citizenship, opposing restrictive immigration laws, or advocating for comprehensive immigration reform."
+
+Gun Control
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {}  increased gun control measures, including supporting background checks, assault weapon bans, or gun buyback programs, or opposing policies that limit gun ownership rights."
+
+Education
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} increasing funding for education, improving teacher pay, expanding access to higher education, or supporting policies that improve public education standards and accessibility."
+
+Unemployment
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} increasing unemployment benefits, job creation programs, or other policies aimed at reducing unemployment, or opposing austerity measures that cut social safety nets and employment support."
+
+Social Security
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "The tweet {}  expanding or preserving Social Security benefits, including supporting measures to increase the program’s funding, improve benefits, or oppose cuts to Social Security programs."
+
+LGBTQ Rights
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} LGBTQ rights or policies protecting LGBTQ individuals, including supporting same-sex marriage, anti-discrimination laws, or opposing policies that limit the rights of LGBTQ people."
+
+Welfare
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} expanding or maintaining government welfare programs, including supporting increased funding for social assistance programs, opposing cuts to welfare, or advocating for policies that reduce poverty."
+
+Minimum Wage
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} raising the minimum wage, including supporting increases to the federal or state minimum wage, opposing efforts to reduce or eliminate wage increases, or advocating for better compensation for low-income workers."
+
+Climate Change
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} taking action on climate change, including measures such as reducing greenhouse gas emissions, investing in renewable energy, or addressing environmental policies."
+
+Free Speech
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} protecting free speech rights, including supporting laws that ensure the right to express opinions, even controversial ones, or opposing restrictions on speech in the media and public forums."
+
+Police Reform
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} police reform, such as advocating for changes in policing practices, reducing police violence, improving accountability, or opposing policies that promote stricter law enforcement and harsher policing tactics."
+
+Student Loans
+labels = ["Strongly Opposes", "Weakly Opposes", "Neutral", "Weakly Supports", "Strongly Supports"] - "This tweet {} policies related to student loans, including supporting loan forgiveness, reduced interest rates, or programs to ease student debt, or opposing proposals that may increase student loan burdens or limit forgiveness programs."
+
