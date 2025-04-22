@@ -3,6 +3,7 @@ data/*.csv
 data/*.xlsx
 data/*.json
 data/*.txt
+data/*
 datasets/*.csv
 datasets/*.xlsx
 datasets/*.json
