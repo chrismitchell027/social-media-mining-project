@@ -1,0 +1,359 @@
+{
+  "CA": {
+    "Total Frequencies": 678,
+    "Strongly Negative": 77,
+    "Neutral": 554,
+    "Strongly Positive": 47,
+    "Ec": 0.3555370046311527
+  },
+  "NY": {
+    "Total Frequencies": 383,
+    "Strongly Negative": 36,
+    "Neutral": 318,
+    "Strongly Positive": 29,
+    "Ec": 0.33665588555165393
+  },
+  "DC": {
+    "Total Frequencies": 342,
+    "Strongly Negative": 33,
+    "Neutral": 271,
+    "Strongly Positive": 38,
+    "Ec": 0.39541580540813914
+  },
+  "TX": {
+    "Total Frequencies": 299,
+    "Strongly Negative": 26,
+    "Neutral": 249,
+    "Strongly Positive": 24,
+    "Ec": 0.3330410572045509
+  },
+  "FL": {
+    "Total Frequencies": 286,
+    "Strongly Negative": 30,
+    "Neutral": 242,
+    "Strongly Positive": 14,
+    "Ec": 0.3073725345217041
+  },
+  "IL": {
+    "Total Frequencies": 104,
+    "Strongly Negative": 11,
+    "Neutral": 87,
+    "Strongly Positive": 6,
+    "Ec": 0.3241676836222628
+  },
+  "PA": {
+    "Total Frequencies": 93,
+    "Strongly Negative": 3,
+    "Neutral": 83,
+    "Strongly Positive": 7,
+    "Ec": 0.22963886798446442
+  },
+  "NJ": {
+    "Total Frequencies": 89,
+    "Strongly Negative": 4,
+    "Neutral": 79,
+    "Strongly Positive": 6,
+    "Ec": 0.24064412211253094
+  },
+  "NC": {
+    "Total Frequencies": 85,
+    "Strongly Negative": 8,
+    "Neutral": 75,
+    "Strongly Positive": 2,
+    "Ec": 0.24201403918251918
+  },
+  "MD": {
+    "Total Frequencies": 80,
+    "Strongly Negative": 5,
+    "Neutral": 71,
+    "Strongly Positive": 4,
+    "Ec": 0.24148593410844954
+  },
+  "MA": {
+    "Total Frequencies": 73,
+    "Strongly Negative": 9,
+    "Neutral": 60,
+    "Strongly Positive": 4,
+    "Ec": 0.34467019852458003
+  },
+  "AZ": {
+    "Total Frequencies": 71,
+    "Strongly Negative": 4,
+    "Neutral": 65,
+    "Strongly Positive": 2,
+    "Ec": 0.1894870012914277
+  },
+  "VA": {
+    "Total Frequencies": 65,
+    "Strongly Negative": 2,
+    "Neutral": 60,
+    "Strongly Positive": 3,
+    "Ec": 0.17647915754785337
+  },
+  "OR": {
+    "Total Frequencies": 62,
+    "Strongly Negative": 3,
+    "Neutral": 55,
+    "Strongly Positive": 4,
+    "Ec": 0.2420165430569381
+  },
+  "MO": {
+    "Total Frequencies": 61,
+    "Strongly Negative": 12,
+    "Neutral": 47,
+    "Strongly Positive": 2,
+    "Ec": 0.39854017675309594
+  },
+  "WI": {
+    "Total Frequencies": 56,
+    "Strongly Negative": 0,
+    "Neutral": 55,
+    "Strongly Positive": 1,
+    "Ec": 0.04685633436894021
+  },
+  "OH": {
+    "Total Frequencies": 55,
+    "Strongly Negative": 6,
+    "Neutral": 46,
+    "Strongly Positive": 3,
+    "Ec": 0.32360083261307315
+  },
+  "MI": {
+    "Total Frequencies": 50,
+    "Strongly Negative": 9,
+    "Neutral": 40,
+    "Strongly Positive": 1,
+    "Ec": 0.35261562231327837
+  },
+  "GA": {
+    "Total Frequencies": 46,
+    "Strongly Negative": 4,
+    "Neutral": 41,
+    "Strongly Positive": 1,
+    "Ec": 0.22706492290359515
+  },
+  "WA": {
+    "Total Frequencies": 46,
+    "Strongly Negative": 4,
+    "Neutral": 42,
+    "Strongly Positive": 0,
+    "Ec": 0.17185818921134444
+  },
+  "CO": {
+    "Total Frequencies": 35,
+    "Strongly Negative": 5,
+    "Neutral": 29,
+    "Strongly Positive": 1,
+    "Ec": 0.32276309158368
+  },
+  "KY": {
+    "Total Frequencies": 35,
+    "Strongly Negative": 3,
+    "Neutral": 32,
+    "Strongly Positive": 0,
+    "Ec": 0.16989204122018553
+  },
+  "NV": {
+    "Total Frequencies": 30,
+    "Strongly Negative": 2,
+    "Neutral": 25,
+    "Strongly Positive": 3,
+    "Ec": 0.3308387027678743
+  },
+  "TN": {
+    "Total Frequencies": 30,
+    "Strongly Negative": 3,
+    "Neutral": 26,
+    "Strongly Positive": 1,
+    "Ec": 0.2707545940824284
+  },
+  "SC": {
+    "Total Frequencies": 26,
+    "Strongly Negative": 1,
+    "Neutral": 23,
+    "Strongly Positive": 2,
+    "Ec": 0.24429395842315726
+  },
+  "MN": {
+    "Total Frequencies": 24,
+    "Strongly Negative": 2,
+    "Neutral": 22,
+    "Strongly Positive": 0,
+    "Ec": 0.16610284562472388
+  },
+  "LA": {
+    "Total Frequencies": 19,
+    "Strongly Negative": 2,
+    "Neutral": 15,
+    "Strongly Positive": 2,
+    "Ec": 0.40003292973449245
+  },
+  "HI": {
+    "Total Frequencies": 17,
+    "Strongly Negative": 1,
+    "Neutral": 16,
+    "Strongly Positive": 0,
+    "Ec": 0.12535918113911249
+  },
+  "CT": {
+    "Total Frequencies": 15,
+    "Strongly Negative": 0,
+    "Neutral": 15,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "AL": {
+    "Total Frequencies": 14,
+    "Strongly Negative": 1,
+    "Neutral": 12,
+    "Strongly Positive": 1,
+    "Ec": 0.293457209011313
+  },
+  "KS": {
+    "Total Frequencies": 14,
+    "Strongly Negative": 0,
+    "Neutral": 13,
+    "Strongly Positive": 1,
+    "Ec": 0.1467286045056564
+  },
+  "IA": {
+    "Total Frequencies": 13,
+    "Strongly Negative": 1,
+    "Neutral": 12,
+    "Strongly Positive": 0,
+    "Ec": 0.15576170702370817
+  },
+  "IN": {
+    "Total Frequencies": 11,
+    "Strongly Negative": 1,
+    "Neutral": 9,
+    "Strongly Positive": 1,
+    "Ec": 0.35613141338627263
+  },
+  "OK": {
+    "Total Frequencies": 11,
+    "Strongly Negative": 0,
+    "Neutral": 10,
+    "Strongly Positive": 1,
+    "Ec": 0.17806570669313637
+  },
+  "WV": {
+    "Total Frequencies": 11,
+    "Strongly Negative": 0,
+    "Neutral": 10,
+    "Strongly Positive": 1,
+    "Ec": 0.17806570669313637
+  },
+  "ID": {
+    "Total Frequencies": 10,
+    "Strongly Negative": 0,
+    "Neutral": 10,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "VT": {
+    "Total Frequencies": 9,
+    "Strongly Negative": 1,
+    "Neutral": 8,
+    "Strongly Positive": 0,
+    "Ec": 0.20870559056586613
+  },
+  "NH": {
+    "Total Frequencies": 8,
+    "Strongly Negative": 0,
+    "Neutral": 8,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "DE": {
+    "Total Frequencies": 7,
+    "Strongly Negative": 0,
+    "Neutral": 6,
+    "Strongly Positive": 1,
+    "Ec": 0.25349653288626894
+  },
+  "ND": {
+    "Total Frequencies": 7,
+    "Strongly Negative": 0,
+    "Neutral": 7,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "NM": {
+    "Total Frequencies": 7,
+    "Strongly Negative": 0,
+    "Neutral": 7,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "PR": {
+    "Total Frequencies": 6,
+    "Strongly Negative": 0,
+    "Neutral": 5,
+    "Strongly Positive": 1,
+    "Ec": 0.2845962916070983
+  },
+  "AK": {
+    "Total Frequencies": 5,
+    "Strongly Negative": 0,
+    "Neutral": 4,
+    "Strongly Positive": 1,
+    "Ec": 0.3246924442330589
+  },
+  "ME": {
+    "Total Frequencies": 5,
+    "Strongly Negative": 0,
+    "Neutral": 5,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "UT": {
+    "Total Frequencies": 5,
+    "Strongly Negative": 0,
+    "Neutral": 4,
+    "Strongly Positive": 1,
+    "Ec": 0.3246924442330589
+  },
+  "WY": {
+    "Total Frequencies": 4,
+    "Strongly Negative": 1,
+    "Neutral": 2,
+    "Strongly Positive": 1,
+    "Ec": 0.7547653506033232
+  },
+  "AR": {
+    "Total Frequencies": 3,
+    "Strongly Negative": 0,
+    "Neutral": 3,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "MT": {
+    "Total Frequencies": 3,
+    "Strongly Negative": 0,
+    "Neutral": 3,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "NE": {
+    "Total Frequencies": 3,
+    "Strongly Negative": 0,
+    "Neutral": 3,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "MS": {
+    "Total Frequencies": 2,
+    "Strongly Negative": 0,
+    "Neutral": 2,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  },
+  "RI": {
+    "Total Frequencies": 1,
+    "Strongly Negative": 0,
+    "Neutral": 1,
+    "Strongly Positive": 0,
+    "Ec": 0.0
+  }
+}

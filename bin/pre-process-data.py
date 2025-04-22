@@ -13,8 +13,8 @@ stop_words = stop_words - negation_words
 
 # --- Step 1: Load and combine CSV datasets ---
 # Replace these file names with the actual paths to your CSV files
-df1 = pd.read_csv("data/hashtag_donaldtrump.csv", lineterminator='\n', parse_dates=True)
-df2 = pd.read_csv("data/hashtag_joebiden.csv", lineterminator='\n', parse_dates=True)
+df1 = pd.read_csv("C:\\Users\\rachi\\Desktop\\Spring 2025\\CAP 4773\\Project\\social-media-mining-project\\data\\hashtag_donaldtrump.csv", lineterminator='\n', parse_dates=True)
+df2 = pd.read_csv("C:\\Users\\rachi\\Desktop\\Spring 2025\\CAP 4773\\Project\\social-media-mining-project\\data\\hashtag_joebiden.csv", lineterminator='\n', parse_dates=True)
 
 # Combine the two datasets into one DataFrame
 df = pd.concat([df1, df2], ignore_index=True)
@@ -68,5 +68,5 @@ df_cleaned["clean_tweet"] = df_cleaned["tweet"].apply(clean_text)
 df_cleaned = df_cleaned[columns_to_keep]
 
 # Save the cleaned dataset so we can load it later without pre-processing again
-df_cleaned.to_csv("data/cleaned_tweets.csv", index=False)
+df_cleaned.to_csv("C:\\Users\\rachi\\Desktop\\Spring 2025\\CAP 4773\\Project\\social-media-mining-project\\data\\cleaned_tweets.csv", index=False)
 
